@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "testmod:block/netherrack_valerite_ore"
+  }
+}

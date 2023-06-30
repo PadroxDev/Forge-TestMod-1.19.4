@@ -1,0 +1,12 @@
+{
+  "item.testmod.valerite": "Valerite",
+  "item.testmod.raw_valerite": "Raw Valerite",
+
+  "block.testmod.valerite_block": "Valerite Block",
+  "block.testmod.valerite_ore": "Valerite Ore",
+  "block.testmod.deepslate_valerite_ore": "Deepslate Valerite Ore",
+  "block.testmod.netherrack_valerite_ore": "Netherrack Valerite Ore",
+  "block.testmod.endstone_valerite_ore": "Endstone Valerite Ore",
+
+  "creativemodetab.test_tab": "Test Mod"
+}
