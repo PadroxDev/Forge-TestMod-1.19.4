@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:valerite_ore",
+    "testmod:valerite_block",
+    "testmod:deepslate_valerite_ore",
+    "testmod:netherrack_valerite_ore",
+    "testmod:endstone_valerite_ore"
+  ]
+}
