@@ -1,12 +1,21 @@
 {
   "item.testmod.valerite": "Valerite",
   "item.testmod.raw_valerite": "Raw Valerite",
-
   "block.testmod.valerite_block": "Valerite Block",
   "block.testmod.valerite_ore": "Valerite Ore",
   "block.testmod.deepslate_valerite_ore": "Deepslate Valerite Ore",
   "block.testmod.netherrack_valerite_ore": "Netherrack Valerite Ore",
   "block.testmod.endstone_valerite_ore": "Endstone Valerite Ore",
+
+  "block.testmod.ebony_log": "Ebony Log",
+  "block.testmod.ebony_wood": "Ebony Wood",
+  "block.testmod.stripped_ebony_log": "Stripped Ebony Log",
+  "block.testmod.stripped_ebony_wood": "Stripped Ebony Wood",
+  "block.testmod.ebony_leaves": "Ebony Leaves",
+  "block.testmod.ebony_planks": "Ebony Planks",
+  "block.testmod.ebony_sapling": "Ebony Sapling",
+
+  "entity.minecraft.villager.testmod.ebony_master_lumberjack": "Ebony Master Lumberjack",
 
   "creativemodetab.test_tab": "Test Mod"
 }
